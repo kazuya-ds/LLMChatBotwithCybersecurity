@@ -1,6 +1,10 @@
 # LLMChatBotwithCybersecurity
 A LLM chatbot for CSE120 Software Engineering Blue Diamond Growers Predictive Maintenance for Steel Dryer Bucket Pins with Cybersecurity Measures added
 
+## Libraries
+**Prompt Injection and Jail Break**
+
+
 ## Measures Added
 Prompt sanitization.
 
