@@ -1,17 +1,17 @@
 # LLMChatBotwithCybersecurity
 ### Predictive Maintenance for Steel Dryer Bucket Pins (Blue Diamond Growers)
-**Project Scope:** Development of a security-hardened LLM chatbot for the CSE120 Software Engineering initiative, specifically designed for industrial predictive maintenance with integrated defensive cybersecurity measures.
+**Project Scope:** Development of a large language model (LLM) chatbot to provide troubleshooting assistance, suggest improvements, automate pentesting for cybersecurity, scripts, and other materials to support human decisions.
 
 ---
 
 ## Technical Libraries
 ### Adversarial Prompt Engineering
-* **Prompt Injection and Jailbreak Research:** Development of comprehensive libraries containing adversarial prompts to facilitate automated penetration testing (pentesting).
-* **Automation:** These libraries serve as the data source for scripts designed to evaluate model robustness against unauthorized instruction overrides.
+* **Prompt Injection and Jailbreak Research:** Development of libraries containing adversarial prompts to automate penetration testing (pentesting).
+* **Automation:** These libraries are the datasets used by the scripts to automate pentesting to evaluate AI Security against unauthorized instruction overrides.
 
 ## Pentesting Infrastructure
-* **Jupyter Notebook:** Environment for iterative security testing and exploratory data analysis.
-* **Automated Pentesting Script:** A Python-based utility that ingests payloads from the Prompt Injection and Jailbreak libraries to systematically validate the chatbot's defensive boundaries.
+* **Jupyter Notebook:** Used for development
+* **Automated Pentesting Script:** A Python-based utility that uses the libraries to evaluate the AI security of the Large Language Model.
 
 ---
 
