@@ -1,0 +1,10 @@
+LLM/.DS_Store
+LLM/V0/Model/trained_llm_archive.zip
+LLM/V0/Model/trained_llm_archive/config.json
+LLM/V0/Model/trained_llm_archive/generation_config.json
+LLM/V0/Model/trained_llm_archive/model.safetensors
+LLM/V0/Model/trained_llm_archive/special_tokens_map.json
+LLM/V0/Model/trained_llm_archive/tokenizer.json
+LLM/V0/Model/trained_llm_archive/tokenizer_config.json
+LLM/V0/Model/tokenizer.json
+LLM/V0/Model/.DS_Store
