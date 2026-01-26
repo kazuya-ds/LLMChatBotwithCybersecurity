@@ -1,5 +1,5 @@
 # LLMChatBotwithCybersecurity
-### Predictive Maintenance for Steel Dryer Bucket Pins (Blue Diamond Growers)
+## Description
 **Project Scope:** Development of a large language model (LLM) chatbot to provide troubleshooting assistance, suggest improvements, automate pentesting for cybersecurity, scripts, and other materials to support human decisions.
 
 ---
@@ -34,5 +34,6 @@
 ## References
 1. [LLM Pentesting Resources Repository](https://github.com/R3DLB/LLM-Pentesting-Resources/tree/main)
 2. [Research: Prompt Injection Vulnerabilities in LLMs (arXiv)](https://arxiv.org/html/2406.14549v1)
-3. [CrowdStrike: PII Identification and Protection Standards](https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/personally-identifiable-information-pii/)
-4. [NeuralTrust: Analysis of Code Injection in Large Language Models](https://neuraltrust.ai/blog/code-injection-in-llms)
+3.  [Free LLM API Resources Repository](https://github.com/cheahjs/free-llm-api-resources?tab=readme-ov-file#cloudflare-workers-ai)
+4. [CrowdStrike: PII Identification and Protection Standards](https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/personally-identifiable-information-pii/)
+5. [NeuralTrust: Analysis of Code Injection in Large Language Models](https://neuraltrust.ai/blog/code-injection-in-llms)
